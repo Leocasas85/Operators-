@@ -1,0 +1,37 @@
+CAREFUL WITH THIS AND GDRP
+
+intitle:index.of
+
+**intext:index.of resume**
+
+You can also use the inurl: operator and target keywords in a URL:
+
+intitle:index.of inurl:resume 
+intitle:index.of (inurl:Resume OR inurl:CV OR inurl:”curriculum vitae”)
+intitle:index.of inurl:(Resume OR CV OR Bio OR Profile OR “curriculum vitae”)  
+
+keywords in files and specific email addresses:
+
+intitle:index.of (Resume OR CV OR “curriculum vitae”) “@gmail.com”
+
+You can use it with the intext: operator to get more results if you want:
+
+intext:index.of
+
+This will give you more results because it’s targeting anything where the “index.of” is mentioned.
+
+site:de intitle:index.of (location set through de vs au or .co.uk
+
+This will target all German domains.
+
+“[To Parent Directory]” phrase to target similar sites, just like when you are using index.of:
+
+site:de “[To Parent Directory]”
+
+You can find a string to find various data and some interesting things when you play with other keywords:
+
+intitle:index.of password
+
+intitle:index.of passwords
+
+intitle:index.of secret
