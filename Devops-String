@@ -1,0 +1,12 @@
+DevOps -– (“devops” OR “site reliability” OR “sre” OR (“build” AND “release”) OR DevTool )
+
+Build/Release-– (“devops” AND (“release” OR “build”) AND (“continuous integration” OR “continuous deployment” OR “ci” OR “cd” OR “maven” OR “git” OR “perforce” OR “subversion” OR “ant” OR “jenkins” OR “gradle” OR “nexus” OR “bamboo”))
+
+Site reliability -– ((“site reliability” OR “sre”) AND (“chef” OR “nagios” OR “puppet” OR “icinga” OR “jenkins” OR “docker” OR “ansible” OR “collectd” OR “collectl” OR “consul.io” OR “elk” OR “monit” OR “nginx” OR “nuget” OR “ansible” OR “cfengine” OR “saltstack” OR “fabric” OR “capistrano”))
+
+Operations/automation -– (“devops” AND (“operations” OR “automations”) AND (“chef” OR “nagios” OR “puppet” OR “icinga” OR “jenkins” OR “docker” OR “collectd” OR “collectl” OR “consul.io” OR “elk” OR “monit” OR “nginx” OR “nuget” OR “ansible” OR “cfengine” OR “saltstack” OR “fabric” OR “capistrano” OR “qubell”))
+
+Performance/Monitoring -– (“devops” AND (“monitoring” OR “performance” OR “integration”) AND (“nagios” OR “new relic” OR “icinga” OR “zabbix” OR “splunk” OR “newrelic” OR “dynatrace” OR “bluestripe”))
+
+
+** Needs tyding up across new technologies 
