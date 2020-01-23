@@ -1,0 +1,13 @@
+site:scribd.com AND () AND () AND (intitle:resume OR intitle:cv OR intitle:*vitae)
+
+site:slideshare.net AND () AND () AND (intitle:resume OR intitle:cv OR intitle:*vitae)
+
+site:docs.google.com AND () AND () AND (intitle:resume OR intitle:cv OR intitle:*vitae)
+
+site:wordpress.com AND () AND () AND (intitle:resume OR intitle:cv OR intitle:*vitae)
+
+site: wix.com AND () AND () AND (intitle:resume OR intitle:cv OR intitle:*vitae)
+
+site:bit.ly AND () AND () AND (intitle:resume OR intitle:cv OR intitle:*vitae)
+
+site:angel.co "people skilled at*" redux
